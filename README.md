@@ -11,3 +11,4 @@
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="150" style="display: inline-block; vertical-align: top;">
   </a>
 
+<img src="https://github.com/GeorgeTelles/portfolio_optimization/blob/2feafeffac58edb1a89a739a30e23e0574c0bb97/graph.png">
